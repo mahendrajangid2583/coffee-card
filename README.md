@@ -19,4 +19,4 @@ project/
 └── README.md         # This README file
 - ## Live Demo
 
-You can view the live demo of the application [here](https://mahendrajangid2583.github.io/coffee-card/).
+Check out the live demo of this project: [Coffee Mug Product Page](https://mahendrajangid2583.github.io/coffee-card/).
