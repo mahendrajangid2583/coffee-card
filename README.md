@@ -17,3 +17,6 @@ project/
 ├── style.css         # CSS file for styling the webpage
 ├── OIP.jpeg          # Image file for the product (coffee mug)
 └── README.md         # This README file
+- ## Live Demo
+
+You can view the live demo of the application [here](https://mahendrajangid2583.github.io/coffee-card/).
